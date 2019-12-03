@@ -13,7 +13,7 @@ $ pip install -r requirements.txt
 - For two dimentions
 
 ```
-$ python src/script.py two-d {number of points you need, example 5000}
+$ python src/script.py two-d {number of points you need, example 5000} {radius(0<r>1)}
 ```
 
 - For three dimentions
